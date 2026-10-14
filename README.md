@@ -45,3 +45,20 @@
 - `downloads/`：可直接安装的版本压缩包。
 - `docs/安装说明.txt`：简明安装和使用教程。
 - `docs/Mod介绍.txt`：Mod 介绍文案。
+## 来源与致谢
+
+本项目基于 wltk 制作的 Quick Deals，包含原版 Mod 的代码和资源，包括 Lua 脚本、XML 文件及图片资源。
+
+ZhouBD-cn 在此基础上增加了数字 1 重选物品的快捷键、相关界面提示及使用文档。
+
+- 原作作者：wltk
+- 修改版作者：[ZhouBD-cn](https://github.com/ZhouBD-cn)
+- 原版 Mod：[Quick Deals 创意工坊页面](https://steamcommunity.com/sharedfiles/filedetails/?id=2460661464)
+
+## 游戏与测试环境
+
+- 适用游戏：[Sid Meier's Civilization VI（文明 6）](https://store.steampowered.com/app/289070/)
+- 外交支持点数交易需要：[Gathering Storm（风云变幻）](https://store.steampowered.com/app/947510/)
+- 已确认环境：Windows PC 版，数字 1 快捷键已在游戏内测试可用。
+- 游戏具体版本号：尚未记录，后续补充。
+- 当前 Mod 版本：1.01。
